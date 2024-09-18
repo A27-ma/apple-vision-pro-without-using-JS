@@ -270,3 +270,13 @@ div.linkaftertext a {
     text-decoration: none;
     font-size: large;
 }
+
+h2#thirdh2{
+    display: flex;
+    justify-content: center;
+}
+
+h2#forthh2{
+    display: flex;
+    justify-content: center;
+}
