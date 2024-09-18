@@ -1,0 +1,272 @@
+body {
+    background-color: black;
+    color: white;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.backg {
+
+    background-color: rgb(0, 0, 0);
+    /* border: 2px solid white; */
+    background: fixed;
+    /* font-size: small; */
+    display: block;
+    top: 0;
+    justify-content: center;
+    position: sticky;
+    z-index: 3;
+
+}
+
+nav {
+
+    display: flex;
+    justify-content: center;
+    font-size: 6px;
+    /* top: 0; */
+    /* z-index: -1;
+    opacity: 0.5px;
+    background-color: black; */
+}
+
+nav img {
+    padding-top: 0px;
+    padding-left: 0px;
+    height: 73px;
+    width: 80px;
+    margin-left: -99px;
+}
+
+.tagg {
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+
+}
+
+nav ul li {
+    display: block;
+    text-decoration: none;
+    padding: 13px;
+    font-size: 21px;
+}
+
+
+#over:hover {
+    color: rgb(0, 38, 255);
+}
+
+.navbar li {
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+.app {
+    display: flex;
+    justify-content: end;
+    margin: 0px;
+    padding-left: 599px;
+
+}
+
+#over {
+    display: flex;
+    justify-content: end;
+    margin: 0px;
+    font-size: 18px;
+    padding-left: 45px;
+    padding-right: 24px;
+    padding-top: 13px;
+
+}
+
+
+
+.pro {
+    display: inline-flex;
+    justify-content: center;
+    padding-left: 22px;
+    top: 0;
+    margin: auto;
+    padding-right: 89px;
+
+
+}
+
+.pro h3 {
+    font-size: 34px;
+    display: flex;
+    margin: 3px;
+    padding-right: 0px;
+}
+
+.under {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding-top: 0%;
+    top: 0%;
+    height: 95vh;
+    width: 100vh;
+    margin-bottom: 10px;
+    /* margin-top: -729px; */
+
+}
+
+
+
+.overly {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    height: 100vh;
+    width: 96vh;
+    margin-bottom: -693px;
+    position: sticky;
+    margin-top: 0px;
+    /* top: 0%; */
+    /* z-index: 1; */
+}
+
+
+/* .under:hover{
+    z-index: -1;
+    position: static;
+} */
+
+.overly:hover {
+    display: block;
+    /* color: aliceblue; */
+    /* transform: rotateX(20deg); */
+    z-index: -1;
+    /* transition: ease-in-out, rotateX(20deg); */
+}
+
+.sect h1 {
+    color: rgb(230, 213, 213);
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    margin: auto;
+    font-size: 90px;
+    margin-top: -180px;
+    z-index: 1;
+    margin-bottom: 152px;
+}
+
+.vision:hover {
+    /* z-index: -1; */
+    color: rgb(255, 3, 3);
+    display: flex;
+    /* justify-content: center; */
+    /* position: sticky; */
+    /* margin: auto; */
+    font-size: 90px;
+    margin-top: -180px;
+    /* text-decoration: brown; */
+}
+ 
+
+ .larga {
+    height: 100vh;
+    width: 99vw;
+    display: inline;
+    padding: 24px
+
+} 
+
+video::-webkit-media-controls {
+    display: none !important;
+  }
+
+.vid h2{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    margin: auto;
+    margin-right: -1176px;
+    z-index: 1;
+    margin-top: 530px;
+    transition: 2s;
+}
+
+section.vid {
+    display: flex;
+    justify-content: center;
+    /* margin-top: -50px; */
+    /* padding-bottom: 25%; */
+}
+.secondvid video{
+    height: 100vh;
+    width: 90vw;
+    display: inline;
+    padding-bottom: 64px;
+    padding-top: 0px;
+    padding-left: 44px;
+}
+
+video.thirdvid{
+    height: 100vh;
+    width: 99vw;
+    display: block;
+    margin-top: 0px;
+}
+
+video.forthvideo{
+    height: 100vh;
+    width: 99vw;
+    display: block;
+    margin-top: 0px;
+}
+
+h3#secondh2{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: -213px;
+}
+h1#secondh6{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    font-size: 50px;
+    padding-bottom: 8px;
+}
+
+.secondnewh1{
+    background-color: whitesmoke;
+    color: black;
+    display: inline-flex;
+}
+h4.secondafterh4{
+    margin: 27px;
+    display: flex;
+    color: #86868b;
+    margin-right: 218px;
+}
+h1.secondaftertext{
+    display: flex;
+    margin: 52px;
+    justify-content: left;
+    padding: 117px;
+    font-size: x-large;
+    padding-top: 0px;
+    padding-left: 191px;
+    padding-right: 12px;
+
+}
+div.linkaftertext{
+    margin-top: 0px;
+    margin-left: -28px;
+    background-color: rgb(255 90 0);
+    border-radius: 67px;
+    color: aliceblue;
+    display: inline-block;
+    padding: 10px;
+}
+div.linkaftertext a {
+    text-decoration: none;
+    font-size: large;
+}
